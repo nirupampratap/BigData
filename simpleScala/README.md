@@ -1,0 +1,2 @@
+# simplescala
+Simple scala program
